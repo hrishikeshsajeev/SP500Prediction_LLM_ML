@@ -14,7 +14,7 @@ The first model utilises a **Support Vector Regression (SVR)** architecture to:
 2.  Forecast daily returns based on predicted indicators and market sentiment.
 3.  Generate actionable trading signals (Long/Short/Hold).
 
-The second model utilises a **an End to End LLM** architecture to:
+The second model utilises an **End to End LLM** architecture to:
 1.  Forecast daily returns based on predicted indicators and market sentiment - derived from NLP.
 2.  Generate actionable trading signals (Long/Short/Hold).
 ---
